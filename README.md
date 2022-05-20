@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jumshaid - Software Engineer at TheSoftAims
-- 👀 I’m interested in cool problem solving
-- 🌱 I’m currently learning RoR and Flutter development
 - 📫 How to reach me **jumshaid@thesoftaims.com** or **jumshaidkhan@rocketmail.com**
 
 <!---
